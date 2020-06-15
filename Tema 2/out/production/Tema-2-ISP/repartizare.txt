@@ -1,0 +1,94 @@
+-> Laborator: SO - Miercuri:L16_18
+Craioveanu Sergiu : 331AA
+Matei Roxana : 331AA
+Giuvelca Horia : 331AA
+
+-> Laborator: SO - Luni:L16_18
+Nicolescu Catalina : 333AB
+Posoceanu Valentin : 332AB
+Puha Mihai : 333AB
+
+-> Laborator: SO - Joi:L14_16
+Barac Constantin : 331AA
+
+-> Laborator: SO - Vineri:L10_12
+Rusu Gabriel : 331AA
+
+-> Laborator: ISP - Luni:L18_20
+Craioveanu Sergiu : 331AA
+Matei Roxana : 331AA
+Rusu Gabriel : 331AA
+
+-> Laborator: ISP - Vineri:L16_18
+Giuvelca Horia : 331AA
+Nicolescu Catalina : 333AB
+Posoceanu Valentin : 332AB
+
+-> Laborator: ISP - Miercuri:L10_12
+Puha Mihai : 333AB
+Barac Constantin : 331AA
+
+-> Laborator: IRA - Miercuri:L16_18
+Craioveanu Sergiu : 331AA
+Matei Roxana : 331AA
+Rusu Gabriel : 331AA
+
+-> Laborator: IRA - Marti:L16_18
+Giuvelca Horia : 331AA
+Nicolescu Catalina : 333AB
+Posoceanu Valentin : 332AB
+
+-> Laborator: IRA - Luni:L14_16
+Puha Mihai : 333AB
+Barac Constantin : 331AA
+
+-> Laborator: SMP - Marti:L10_12
+Craioveanu Sergiu : 331AA
+Matei Roxana : 331AA
+Rusu Gabriel : 331AA
+
+-> Laborator: SMP - Marti:L12_14
+Giuvelca Horia : 331AA
+Nicolescu Catalina : 333AB
+Posoceanu Valentin : 332AB
+
+-> Laborator: SMP - Vineri:L16_18
+Puha Mihai : 333AB
+Barac Constantin : 331AA
+
+-> Laborator: APM - Luni:L10_12
+Craioveanu Sergiu : 331AA
+Matei Roxana : 331AA
+Rusu Gabriel : 331AA
+
+-> Laborator: APM - Vineri:L18_20
+Giuvelca Horia : 331AA
+Nicolescu Catalina : 333AB
+Posoceanu Valentin : 332AB
+
+-> Laborator: APM - Vineri:L16_18
+Puha Mihai : 333AB
+Barac Constantin : 331AA
+
+-> Laborator: TD - Joi:L10_12
+Craioveanu Sergiu : 331AA
+Matei Roxana : 331AA
+Rusu Gabriel : 331AA
+
+-> Laborator: TD - Vineri:L16_18
+Giuvelca Horia : 331AA
+Nicolescu Catalina : 333AB
+Posoceanu Valentin : 332AB
+
+-> Laborator: TD - Joi:L8_10
+Puha Mihai : 333AB
+Barac Constantin : 331AA
+
+-> Laborator: M2 - Miercuri:L14_16
+Popa Danut : 313AB
+Papa Constinel : 311AB
+
+-> Laborator: FCT - Joi:L12_14
+Popa Danut : 313AB
+Papa Constinel : 311AB
+
